@@ -89,6 +89,10 @@ ol{
     margin: 20px 0px
 }
 
+.img-circle {
+  border-radius: 50%
+}
+
 .btn-blue{ 
   background-color: orange;
   color:black;
